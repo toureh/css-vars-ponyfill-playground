@@ -1,0 +1,7 @@
+:root {
+    --main-color: green
+  }
+
+p {
+    color: var(--main-color);
+}
